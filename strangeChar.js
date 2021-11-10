@@ -21,8 +21,7 @@ function solution(n){
     }
 
 
-// 위에꺼는 25점밖에 안나옴 왜지?
-
+// 위에꺼는 25점밖에 안나옴 왜지? ==> 마지막 빈칸 추가 하는 로직 때문임
 // function solution(n){
 //     let Array = n.split(' ')
 //     let answer = ''
